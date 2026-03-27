@@ -1,0 +1,20 @@
+========================================================
+  OPEN SOURCE MANIFESTO
+  Written by: YASHASHVI
+  Date: 27 March 2026
+========================================================
+
+  I, YASHASHVI, write this in 2026 when open-source runs the world.
+
+  Every day I use Linux — built openly and shared freely.
+  That act of generosity shapes everything I do as a developer.
+
+  To me, freedom in software means transparency.
+  No company can revoke my right to use a tool I depend on.
+
+  I will build useful tools and release it as open source.
+  Standing on the shoulders of giants means becoming
+  a shoulder for someone else one day.
+
+  — YASHASHVI, 27 March 2026
+========================================================
